@@ -1,0 +1,10 @@
+.imagenes {
+    width: 20%;
+    float: left;
+    min-height: 300px;
+    border: 1px solid blue;
+    text-align: center;
+    background-color: rgba(100,100,100,0.2);
+    margin: 45px;
+}
+
